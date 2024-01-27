@@ -47,15 +47,15 @@ Let's connect! Excited to grow alongside your projects and elevate your web expe
 
 
 ## Contact me
-* <a href="https://www.linkedin.com/in/iberedem-inyang-3b88ba223/"><img src="LinkedIn-Connect-blue.svg">
+* <a href="https://www.linkedin.com/in/esogibe-chidubem-andrew-901a6149/"><img src="LinkedIn-Connect-blue.svg">
 <!-- * <a href="https://web.facebook.com/engr.gentle.1/"><img src="Facebook-Connect-blue.svg"> -->
 <!-- * <a href="https://www.youtube.com/channel/UCYmk2Fu0B1nre0N2Q05Zp_A"><img src="YouTube-Subscribe-red.svg"> -->
-* <a href="https://twitter.com/inyang_iberedem"><img src="twitter.jpeg" width="30" height="30">
+* <a href="https://twitter.com/GibexzAndy"><img src="twitter.jpeg" width="30" height="30">
 * [<img src="whasapp.png" alt="WhatsApp" width="30" height="30" />](https://wa.me/08140475091)
 * [<img src="mailme.png" alt="Email me" width="30" height="30" />](mailto:esogibe.chidubem@gmail.com)
 
 
-_Do you prefer <i>call</i>_ 🤔<br>
+
 <b>Chat or Call: +234-8140475091</b><br>  
 
   <hr><br>

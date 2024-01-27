@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## <p align="center"> Hi there, 👋  I am <i><span font-size="50px">Gibexz</i> (Esogibe Chidubem)</p>
 ### 🌟 Aspiring Full-Stack Developer

@@ -5,9 +5,13 @@
 <hr>
 
 📚 Recent Software Engineering Graduate with a strong backend focus.
+
 💡 Fast learner, eager to tackle challenges and apply fresh knowledge effectively.
+
 🛠️ Committed to hands-on development, crafting clean and efficient code.
+
 🏆 Enthusiastic about contributing to challenging backend tasks and collaborating with professionals.
+
 🌐 Key Portfolio project:  https://lessonpedia.pythonanywhere.com/
 
 Let's connect! Excited to grow alongside your projects and elevate your web experiences.

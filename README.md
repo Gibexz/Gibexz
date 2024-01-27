@@ -59,7 +59,7 @@ Let's connect! Excited to grow alongside your projects and elevate your web expe
 
   <hr><br>
   
- ### <p align="center"> I am open to be trainied and to train  <br>I am open to colaborate with other software engineers around the globe hence to contribute my quota </p>
+ ### <p align="center"> I am open to be trainied and to train  <br>I am open to colaborate with other software engineers around the globe</p>
 
 
 
